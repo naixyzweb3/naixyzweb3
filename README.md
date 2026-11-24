@@ -16,3 +16,7 @@ Most of my client work lives in private repositories, so the activity here is re
 - Portfolio: https://naixyzportfolio.vercel.app
 - X: https://x.com/naixyzweb3
 - LinkedIn: https://www.linkedin.com/in/naiaraauad
+
+## Tools
+
+**Tools:** Figma, Illustrator, Photoshop, AE, Premiere, CapCut, Remotion, Higgsfield, Freepik, Claude, GPT, Gemini
